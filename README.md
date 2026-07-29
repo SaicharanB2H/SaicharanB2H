@@ -60,11 +60,4 @@ I'm a Bachelor of Technology (B.Tech) student with a strong foundation in progra
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saicharanb2h&show_icons=true&locale=en&theme=default" alt="saicharanb2h's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=saicharanb2h&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saicharanb2h" alt="GitHub Streak" />
-</p>
